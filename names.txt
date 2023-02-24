@@ -1,2 +1,3 @@
 role,NetID,LastName,FirstName
-boss,9082626418,Zheng,Alena
+boss,jzheng235,Zheng,Alena
+employee,bbadger,Badger,Bucky
